@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Where I Am Display</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_display">Transport Display</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">admin@admin.com</string>
+    <string name="firebase_password" translatable="false">admin505</string>
+    <string name="emailerror">Enter valid Email</string>
+    <string name="passworderror">Enter valid password</string>
+    <string name="nameerror">Enter valid name</string>
+    <string name="notification_text">Enter valid name</string>
+    <string name="transport_id">123</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Where I Am</string>
+    <string name="slide_1_desc">Lets save beautiful souls around.</string>
+
+    <string name="slide_2_title">We Are Near You</string>
+    <string name="slide_2_desc">Will save you</string>
+
+    <string name="slide_3_title">Nearby Ambulance</string>
+    <string name="slide_3_desc">Find all your nearby Ambulance in a moment</string>
+
+    <string name="slide_4_title">Call Police</string>
+    <string name="slide_4_desc">Don\'t be afraid everyone is here!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
